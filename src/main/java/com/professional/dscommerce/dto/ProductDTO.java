@@ -1,7 +1,6 @@
 package com.professional.dscommerce.dto;
 
 import com.professional.dscommerce.entities.Product;
-import jakarta.persistence.Column;
 
 public class ProductDTO {
     private Long id;
